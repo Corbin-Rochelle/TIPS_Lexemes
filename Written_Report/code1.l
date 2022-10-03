@@ -1,0 +1,1 @@
+\:	{ return TOK_COLON; }

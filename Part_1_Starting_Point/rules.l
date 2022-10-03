@@ -1,5 +1,9 @@
 /******************************************************************* 
-write an appropriate header comment, see the assignment
+Name: Corbin Rochelle         NetID: ctr233
+Course: CSE 4714              Assignment: Part 1
+Programming Environment: Xcode
+Purpose of File: The purpose of this rules file is to allow LEX to parse the input 
+		 stream according to these rules.
 *******************************************************************/
 %option yylineno
 %option noyywrap
